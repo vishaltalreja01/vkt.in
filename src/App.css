@@ -1,6 +1,6 @@
 .pageTop {
   position: relative;
-  margin: 44px auto 2.5rem;
+  margin: 0px auto 2.5rem;
   max-width: 56rem;
   padding: 1rem;
   --tw-text-opacity: 1;
@@ -8,7 +8,7 @@
 }
 @media (min-width: 768px) {
   .pageTop {
-    margin-top: 60px;
+    padding-top: 56px;
   }
 }
 @media (min-width: 1536px) {
